@@ -1,8 +1,8 @@
-let formations = [
+let emploi = [
     {
-        "intitulé": "Développeur Web Apps"
-        , "Nom Entreprise": "TechnofuturTIC"
-        , "Année début": 2023
-        , "Année fin": 2023
+        "intitulé": "Designer Web"
+        , "Nom Entreprise": "CPAS Namur"
+        , "Année début": 2018
+        , "Année fin": 2020
     }
 ];
